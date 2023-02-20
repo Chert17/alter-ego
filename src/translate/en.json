@@ -1,0 +1,18 @@
+{
+  "home-page-text": " Good day! I'm Andrii , I'm front-end developer (React). I have the skills of HTML/HTML5, XML, CSS/CSS3, SASS, API, JavaScript, React JS, Redux-Toolkit, React Hook Form, React Query. Understand the basics of design, and know the basic level of English. In my free time I study additional literature on my own. I am very organized and dissitipliated. I believe that owning such important qualities as responsibility, purposefulness, diligence and diligence will help me to successfully prove myself in my work. I would like to see my resume as well as my work. Thank you for your attention.",
+  "btn-load-more": "Load more",
+  "btn-delete": "delete",
+  "login": "Login",
+  "register": "Register",
+  "sign-in": "sign in",
+  "sign-up": "sign up",
+  "name": "Name",
+  "password": "Password",
+  "hello": "Hello",
+  "logout": "Logout",
+  "home-page-nav": "Home",
+  "news-page-nav": "News",
+  "profile": "Profile",
+  "en": "en",
+  "ua": "ua"
+}
