@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/alter-ego/static/css/main.d549b4ef.css",
+    "main.js": "/alter-ego/static/js/main.621daf90.js",
+    "static/js/717.60999404.chunk.js": "/alter-ego/static/js/717.60999404.chunk.js",
+    "static/js/628.1f95ac4b.chunk.js": "/alter-ego/static/js/628.1f95ac4b.chunk.js",
+    "static/js/7.6e9218cf.chunk.js": "/alter-ego/static/js/7.6e9218cf.chunk.js",
+    "static/js/532.0c377e1f.chunk.js": "/alter-ego/static/js/532.0c377e1f.chunk.js",
+    "static/js/949.5449a866.chunk.js": "/alter-ego/static/js/949.5449a866.chunk.js",
+    "static/js/428.5021b27d.chunk.js": "/alter-ego/static/js/428.5021b27d.chunk.js",
+    "index.html": "/alter-ego/index.html",
+    "main.d549b4ef.css.map": "/alter-ego/static/css/main.d549b4ef.css.map",
+    "main.621daf90.js.map": "/alter-ego/static/js/main.621daf90.js.map",
+    "717.60999404.chunk.js.map": "/alter-ego/static/js/717.60999404.chunk.js.map",
+    "628.1f95ac4b.chunk.js.map": "/alter-ego/static/js/628.1f95ac4b.chunk.js.map",
+    "7.6e9218cf.chunk.js.map": "/alter-ego/static/js/7.6e9218cf.chunk.js.map",
+    "532.0c377e1f.chunk.js.map": "/alter-ego/static/js/532.0c377e1f.chunk.js.map",
+    "949.5449a866.chunk.js.map": "/alter-ego/static/js/949.5449a866.chunk.js.map",
+    "428.5021b27d.chunk.js.map": "/alter-ego/static/js/428.5021b27d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d549b4ef.css",
+    "static/js/main.621daf90.js"
+  ]
+}
